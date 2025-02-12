@@ -32,7 +32,7 @@ Como um dos primeiros projetos com HTML e CSS, este currículo serve tanto como 
 
 ## Acesso ao Projeto
 
-- **GitHub Pages:** [Acesse o Currículo Online]([https://marceloroner.github.io/ZG-Hero-Project-K4-T6-/])
+- **GitHub Pages:** [Acesse o Currículo Online](https://marceloroner.github.io/ZG-Hero-Project-K4-T6-/)
 - **Repositório GitHub:** [Visualizar Código Fonte](https://github.com/MarceloRoner/ZG-Hero-Project-K4-T6-.git)
 
 ---
